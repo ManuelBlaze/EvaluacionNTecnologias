@@ -9,7 +9,7 @@ hd = int(input('Ingrese las horas dominicales trabajadas \n'))
 
 vDia = (salario/30)
 vHora = (salario/240)
-vHoraE = vHora * 1.30
+vHoraE = vHora * 1.35
 vHoraD = vHora * 1.75
 
 tHE = vHoraE * he
